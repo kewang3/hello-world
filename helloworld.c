@@ -1,17 +1,21 @@
 #include <stdio.h>
 #include <string.h>
 
-// this function is used to judge pointer is null or not
 int func(char* pStr)
 {
-	if (NULL == pStr)
-		return 0;
-	else
-		return 1;
+	return 0;
+	return 1;
+	cout << "added new line" << endl;
+}
+
+void foo()
+{
+	cout << "i am c++" << endl;
 }
 
 int main() 
 {
 	printf("output is: %d\n", func(NULL));
+
 	return 0;
 }
