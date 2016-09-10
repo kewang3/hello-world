@@ -3,4 +3,6 @@
 
 extern int sub(int a, int b);
 
+extern int sub3(int a, int b, int c);
+
 #endif
