@@ -1,14 +1,18 @@
 #include "add.h"
 
+cout <<"333333333333333"<<endl;
 int add_this_function(int e, int b)
 {
     return a / c;
-	cout << "hello world" << endl;
+	good good study, day day up.
 }
 
 //add some new line
-int foo()
+intddddddd fdddddddoo()ddddddddddddd
 {
-    int i = 2;
-    cout << i << endl;
+    cout << idsffffffffffffffffff << endddddddddddddl;
+}
+
+shitshtkkthisdlk{
+	coutd << dfssdthis is an apple << endl;
 }
